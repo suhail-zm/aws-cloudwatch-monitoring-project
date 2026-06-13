@@ -4,6 +4,8 @@
 
 This project demonstrates the implementation of a monitoring and alerting solution using Amazon CloudWatch. The objective was to monitor the health and performance of AWS resources, generate alerts based on predefined thresholds, and improve operational visibility within the cloud environment.
 
+<img width="1536" height="901" alt="monitoring and alert" src="https://github.com/user-attachments/assets/16384ad2-a078-40e6-9bf6-9bd3640f33f0" />
+
 ## Objectives
 
 * Monitor EC2 instance performance metrics
